@@ -1,0 +1,446 @@
+{
+    "Pregunta": {
+        "Pregunta": "\u00bfSaliste de tu casa en los ultimo 6 meses?",
+        "Respuestas": [
+            "No",
+            "Si"
+        ],
+        "Votos": [
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "Premio": 0,
+    "Comodines": [
+        true,
+        true,
+        true
+    ],
+    "Preguntas": [
+        {
+            "Pregunta": "\u00bfPizza o hamburguesa?",
+            "Respuestas": [
+                "Pizza",
+                "Hamburguesa"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Preferis tener...",
+            "Respuestas": [
+                "Mil dolares",
+                "Un pap\u00e1"
+            ],
+            "Votos": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Preferis viajar al...",
+            "Respuestas": [
+                "Pasado",
+                "Futuro"
+            ],
+            "Votos": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Prefiero ser...",
+            "Respuestas": [
+                "Sordo mudo",
+                "Ciego"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Prefiero ganar la...",
+            "Respuestas": [
+                "Loter\u00eda",
+                "Quiniela"
+            ],
+            "Votos": [
+                0,
+                1,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "La mejor serie jamas creada es...",
+            "Respuestas": [
+                "Breaking Bad",
+                "Juego de Tronos"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "Prefiero vivir toda mi vida con...",
+            "Respuestas": [
+                "Diarrea",
+                "Ardor en las bolas"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Prefiero sentarme arriba de...",
+            "Respuestas": [
+                "La torta",
+                "El platano"
+            ],
+            "Votos": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "\u00bfSer famoso o ser an\u00f3nimo pero exitoso?",
+            "Respuestas": [
+                "Famoso",
+                "An\u00f3nimo exitoso"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "La mejor momento del a\u00f1o es...",
+            "Respuestas": [
+                "El verano",
+                "El invierno"
+            ],
+            "Votos": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "El mejor lugar para vivir es...",
+            "Respuestas": [
+                "La ciudad",
+                "El campo"
+            ],
+            "Votos": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Preferis besar un...",
+            "Respuestas": [
+                "Pescado",
+                "Anciano"
+            ],
+            "Votos": [
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Mi mayor deseo es poder hablar con...",
+            "Respuestas": [
+                "Los animales",
+                "Las personas"
+            ],
+            "Votos": [
+                1,
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "No hay mejor comida que...",
+            "Respuestas": [
+                "Arroz con helado",
+                "Helado con sal"
+            ],
+            "Votos": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Preferis caer sobre...",
+            "Respuestas": [
+                "Un caniche",
+                "Un piso de cemento"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "Preferiria ser un modelo de...",
+            "Respuestas": [
+                "Manos",
+                "Pies"
+            ],
+            "Votos": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Preferis controlar...",
+            "Respuestas": [
+                "Los embarazos",
+                "El clima"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "Preciona el boton rojo",
+            "Respuestas": [
+                "Azul",
+                "Rojo"
+            ],
+            "Votos": [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "Prefiero tener el poder de...",
+            "Respuestas": [
+                "Volar",
+                "Nadar"
+            ],
+            "Votos": [
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "\u00bfPelear\u00edas contra una abuela en silla de ruedas?",
+            "Respuestas": [
+                "Si",
+                "No"
+            ],
+            "Votos": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Tu mujer ideal se pareceria a...",
+            "Respuestas": [
+                "Nicky Nicole",
+                "Tu mam\u00e1"
+            ],
+            "Votos": [
+                1,
+                0,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Prefiero tener...",
+            "Respuestas": [
+                "Fuerza",
+                "Velocidad"
+            ],
+            "Votos": [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "\u00bfSer rico y solo o pobre y rodeado de amigos?",
+            "Respuestas": [
+                "Rico solo",
+                "Pobre con amigos"
+            ],
+            "Votos": [
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "\u00bfPoder detener el tiempo o acelerarlo?",
+            "Respuestas": [
+                "Detener",
+                "Acelerar"
+            ],
+            "Votos": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Peliarias contra un grupo de...",
+            "Respuestas": [
+                "Enanos",
+                "Jubilados"
+            ],
+            "Votos": [
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Pregunta": "Nunca confies en un...",
+            "Respuestas": [
+                "Pelado",
+                "Ciego"
+            ],
+            "Votos": [
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "\u00bfTe casarias con la hermana de tu primo?",
+            "Respuestas": [
+                "Si",
+                "No"
+            ],
+            "Votos": [
+                0,
+                1,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "Pregunta": "Prefiero ser...",
+            "Respuestas": [
+                "Un pajaro",
+                "Un pato"
+            ],
+            "Votos": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "Pregunta": "Preferis vivir y dormir debajo de...",
+            "Respuestas": [
+                "Un puente",
+                "Un carton mojado"
+            ],
+            "Votos": [
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "Preguntas respondidas": [
+        {
+            "Pregunta": "\u00bfSaliste de tu casa en los ultimo 6 meses?",
+            "Respuestas": [
+                "No",
+                "Si"
+            ],
+            "Votos": [
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ]
+}
