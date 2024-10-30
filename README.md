@@ -88,6 +88,13 @@
 - ⚡ Juego creado para el segundo parcial de programación del primer cuatrimestre de la Tecnicatura de programación de UTN Fra
 <br>
 
+<div id="ejecuccion">
+  <ul align="center">
+    <h2 style="display: inline-block">Ver juego en ejecuccion</h2></summary>
+    https://www.youtube.com/watch?v=B5L988tULYs
+  </ul>
+</div>
+
 <div id="tecnologias-usadas">
   <ul align="center">
     <h2 style="display: inline-block">Tecnologias usadas</h2></summary>
